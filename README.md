@@ -33,8 +33,7 @@ impact of every purchase made.
 - **Flutter** (Dart) — Cross-platform mobile development
 - **Provider** — State management
 
-### Backend
-- **Node.js** — Server side logic and REST API
+
 
 ---
 
